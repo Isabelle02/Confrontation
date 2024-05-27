@@ -37,14 +37,14 @@ namespace FuryLion.UI
 
         private void LoadingPageComplete()
         {
+            PageManager.OpenLoadingPage();
             // TODO раскомментировать при наличии DOTween
-            _logo.DOFade(0.3f, 0.0f).OnComplete(() =>
+            _logo.DOFade(0.0f, 0.5f).OnComplete(() =>
             {
-                PageManager.OpenLoadingPage();
-
-                SceneManager.UnloadSceneAsync("Splash");
-
-                _background.DOFade(0.3f, 0.0f);
+                _background.DOFade(0.0f, 0.5f).OnComplete(() => 
+                {
+                    SceneManager.UnloadSceneAsync("Splash");
+                });
             });
         }
     }
