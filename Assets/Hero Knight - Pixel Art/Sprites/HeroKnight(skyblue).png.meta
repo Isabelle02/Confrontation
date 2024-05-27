@@ -285,7 +285,7 @@ TextureImporter:
       213: 1724351726498817095
     second: HeroKnight(skyblue)_93
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -306,6 +306,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -344,6 +345,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -371,6 +373,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2368,6 +2382,101 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      HeroKnight(skyblue)_49: 3829865085347550400
+      HeroKnight(skyblue)_46: 4001665676125620194
+      HeroKnight(skyblue)_89: -3124748841201573035
+      HeroKnight(skyblue)_87: 7411290307064873868
+      HeroKnight(skyblue)_29: -4342001272489116529
+      HeroKnight(skyblue)_14: -7400058460030458154
+      HeroKnight(skyblue)_1: -7723775630653361159
+      HeroKnight(skyblue)_50: -8606922210817212254
+      HeroKnight(skyblue)_31: 3291564948742975767
+      HeroKnight(skyblue)_51: -2447390723501268099
+      HeroKnight(skyblue)_81: -2092008193172832797
+      HeroKnight(skyblue)_92: 4477596266218541928
+      HeroKnight(skyblue)_80: -4645775246496704366
+      HeroKnight(skyblue)_86: 4326867513775545745
+      HeroKnight(skyblue)_70: -1550881025283377741
+      HeroKnight(skyblue)_26: -1639388090327461035
+      HeroKnight(skyblue)_6: 1321814368436368543
+      HeroKnight(skyblue)_42: 483203916117768392
+      HeroKnight(skyblue)_67: 6285430110326657573
+      HeroKnight(skyblue)_38: -6666299711957468467
+      HeroKnight(skyblue)_35: -4081791253537403954
+      HeroKnight(skyblue)_40: 6331548632045346942
+      HeroKnight(skyblue)_75: -5679606467944864118
+      HeroKnight(skyblue)_10: -3321104635507069673
+      HeroKnight(skyblue)_3: -7073137663849110789
+      HeroKnight(skyblue)_17: -5158958780919250051
+      HeroKnight(skyblue)_69: -2738823193554013102
+      HeroKnight(skyblue)_43: 7654969200894489098
+      HeroKnight(skyblue)_4: -7373016306238398108
+      HeroKnight(skyblue)_58: -3975204710159053428
+      HeroKnight(skyblue)_5: -1965026188993875238
+      HeroKnight(skyblue)_19: -5670252675786209851
+      HeroKnight(skyblue)_18: 5920256312088882588
+      HeroKnight(skyblue)_13: 5860834123996296190
+      HeroKnight(skyblue)_79: 4052980386456273249
+      HeroKnight(skyblue)_0: -2578144705631417214
+      HeroKnight(skyblue)_23: -8302803018477223307
+      HeroKnight(skyblue)_34: 6186273287567263040
+      HeroKnight(skyblue)_63: 3533957233441712797
+      HeroKnight(skyblue)_73: 6255169728034161659
+      HeroKnight(skyblue)_25: -7496187094992266106
+      HeroKnight(skyblue)_62: -7548624547594775033
+      HeroKnight(skyblue)_28: 5758010820323904973
+      HeroKnight(skyblue)_12: 6516395536409388274
+      HeroKnight(skyblue)_44: 1326707392582095362
+      HeroKnight(skyblue)_11: -9142698662436383549
+      HeroKnight(skyblue)_84: -6391455724196887886
+      HeroKnight(skyblue)_56: 5013548713773030848
+      HeroKnight(skyblue)_48: -5495192186445504523
+      HeroKnight(skyblue)_71: -2553551269350835313
+      HeroKnight(skyblue)_59: -8068174094203901708
+      HeroKnight(skyblue)_83: -3263824988270566097
+      HeroKnight(skyblue)_2: 4651422032818229820
+      HeroKnight(skyblue)_21: 6906765595218887353
+      HeroKnight(skyblue)_39: 4097509790089276015
+      HeroKnight(skyblue)_60: 366544121903384447
+      HeroKnight(skyblue)_16: -3341189271828587168
+      HeroKnight(skyblue)_77: -1609963084046881851
+      HeroKnight(skyblue)_85: -1466700690742904922
+      HeroKnight(skyblue)_82: -4583030637186788554
+      HeroKnight(skyblue)_66: 3347058687281211281
+      HeroKnight(skyblue)_78: 5082164806783823100
+      HeroKnight(skyblue)_52: -313078655310045882
+      HeroKnight(skyblue)_27: -8082483211542988949
+      HeroKnight(skyblue)_37: 1650839451928843347
+      HeroKnight(skyblue)_32: -6199456200218800792
+      HeroKnight(skyblue)_20: 7157925612794913799
+      HeroKnight(skyblue)_36: 570004032602351007
+      HeroKnight(skyblue)_54: -9071128273686486810
+      HeroKnight(skyblue)_91: -1732677192593148128
+      HeroKnight(skyblue)_72: -1965738777171812309
+      HeroKnight(skyblue)_15: -7082698037912303758
+      HeroKnight(skyblue)_33: -4358361709524061267
+      HeroKnight(skyblue)_45: -7138092904317756809
+      HeroKnight(skyblue)_24: 6641907050379472814
+      HeroKnight(skyblue)_53: -5205399236736417861
+      HeroKnight(skyblue)_65: 1788477486679884077
+      HeroKnight(skyblue)_8: 3975443023874052051
+      HeroKnight(skyblue)_9: -8724647053371776289
+      HeroKnight(skyblue)_30: 9000858304752869650
+      HeroKnight(skyblue)_76: -8537204679122202942
+      HeroKnight(skyblue)_47: -3422051296492827963
+      HeroKnight(skyblue)_64: -6776714451117063812
+      HeroKnight(skyblue)_68: 3310226565995752672
+      HeroKnight(skyblue)_57: 2764882735342919266
+      HeroKnight(skyblue)_93: 1724351726498817095
+      HeroKnight(skyblue)_74: -7001592089609680927
+      HeroKnight(skyblue)_61: 886157562319150024
+      HeroKnight(skyblue)_88: 6510206824262808405
+      HeroKnight(skyblue)_90: 127816452605424928
+      HeroKnight(skyblue)_41: -2373821199316436143
+      HeroKnight(skyblue)_22: -7092532268916494782
+      HeroKnight(skyblue)_55: 3641302949881514596
+      HeroKnight(skyblue)_7: 8621250114369043630
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
