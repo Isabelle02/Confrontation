@@ -285,7 +285,7 @@ TextureImporter:
       213: -8934103233059927858
     second: HeroKnight(green)_93
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -306,7 +306,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -345,7 +344,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -373,18 +371,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2382,101 +2368,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      HeroKnight(green)_19: 7838886188067329777
-      HeroKnight(green)_87: -3365215252108412352
-      HeroKnight(green)_4: -5859668774547266483
-      HeroKnight(green)_22: -8688229334831655820
-      HeroKnight(green)_79: 3289994710007198870
-      HeroKnight(green)_30: 1893954468201006653
-      HeroKnight(green)_1: -3021161861040248642
-      HeroKnight(green)_38: -6289244971716629287
-      HeroKnight(green)_15: 6617431732914537106
-      HeroKnight(green)_43: -8847428566303338055
-      HeroKnight(green)_33: 730863210170749549
-      HeroKnight(green)_83: -4172029250030084428
-      HeroKnight(green)_64: 7286041360266444150
-      HeroKnight(green)_80: -8675509580297743674
-      HeroKnight(green)_72: -5191075054031451796
-      HeroKnight(green)_60: -1268034785997363284
-      HeroKnight(green)_26: 7432290793840650613
-      HeroKnight(green)_40: 3496256189858579475
-      HeroKnight(green)_71: -5762680971956805827
-      HeroKnight(green)_68: 6835315039567596804
-      HeroKnight(green)_18: 5266744455731916565
-      HeroKnight(green)_63: 174331579308251505
-      HeroKnight(green)_49: -2798920125160478670
-      HeroKnight(green)_2: -3884509383102663748
-      HeroKnight(green)_37: 2292121320993250678
-      HeroKnight(green)_78: 6622151754030881204
-      HeroKnight(green)_86: 7757472344486678173
-      HeroKnight(green)_32: 6747325969834625641
-      HeroKnight(green)_61: 4734545345971741595
-      HeroKnight(green)_65: 3473230826796484393
-      HeroKnight(green)_69: -8674947404451042402
-      HeroKnight(green)_11: 1879913457623688568
-      HeroKnight(green)_53: 3047491632321891818
-      HeroKnight(green)_21: -7961264801060379226
-      HeroKnight(green)_55: -2696598105826789529
-      HeroKnight(green)_7: 1990854155289302011
-      HeroKnight(green)_90: 910012536283311974
-      HeroKnight(green)_85: -8386637974800068676
-      HeroKnight(green)_67: -4924132321450937881
-      HeroKnight(green)_10: 2415088832019757829
-      HeroKnight(green)_24: -825824420778312142
-      HeroKnight(green)_44: 1638345249769533820
-      HeroKnight(green)_57: 5374745747131787986
-      HeroKnight(green)_8: -4398821857684662754
-      HeroKnight(green)_88: 4675983738865292901
-      HeroKnight(green)_17: 8672821668572189927
-      HeroKnight(green)_75: 2494807070051095670
-      HeroKnight(green)_39: -2968115412906041419
-      HeroKnight(green)_45: 3005172936285077727
-      HeroKnight(green)_82: 1736300325202629823
-      HeroKnight(green)_36: 1822855091914853244
-      HeroKnight(green)_34: -2186201568901981588
-      HeroKnight(green)_6: 4931533079087011433
-      HeroKnight(green)_47: 4883449136748510355
-      HeroKnight(green)_3: -484798894878065534
-      HeroKnight(green)_35: -9084393513959337981
-      HeroKnight(green)_28: 289935237710796218
-      HeroKnight(green)_84: -4518775333001852642
-      HeroKnight(green)_73: 6987808635501508061
-      HeroKnight(green)_12: 5524966792438052747
-      HeroKnight(green)_89: 6186769888991609956
-      HeroKnight(green)_31: -5305421384043941331
-      HeroKnight(green)_51: 8881625828581153808
-      HeroKnight(green)_41: -7640569601623822311
-      HeroKnight(green)_54: 2558623069452951768
-      HeroKnight(green)_92: -5041751859786860749
-      HeroKnight(green)_74: 4368108361947846984
-      HeroKnight(green)_9: 2205505916206388648
-      HeroKnight(green)_70: -7330686029420575308
-      HeroKnight(green)_5: -8316334858817122069
-      HeroKnight(green)_46: -8984356451627047970
-      HeroKnight(green)_16: 5107538846276034932
-      HeroKnight(green)_50: -6427205770682822028
-      HeroKnight(green)_58: -7991345967987982565
-      HeroKnight(green)_91: 3931659524925104794
-      HeroKnight(green)_81: -8711836490577407299
-      HeroKnight(green)_77: -3784238282629743748
-      HeroKnight(green)_42: -4840240097102237463
-      HeroKnight(green)_93: -8934103233059927858
-      HeroKnight(green)_48: -4167764769318473875
-      HeroKnight(green)_76: -1889166211201712718
-      HeroKnight(green)_14: -7591443758318037446
-      HeroKnight(green)_29: 2429026374973306828
-      HeroKnight(green)_13: -7163411346347452352
-      HeroKnight(green)_27: 6567768764881689838
-      HeroKnight(green)_20: 8677183726204853614
-      HeroKnight(green)_56: -5728012947998077583
-      HeroKnight(green)_25: 1613471543712127093
-      HeroKnight(green)_52: -8285623290080132267
-      HeroKnight(green)_0: -7117380652717991379
-      HeroKnight(green)_66: 6174316040007039019
-      HeroKnight(green)_59: -6283710828839221993
-      HeroKnight(green)_62: 2554533391589452226
-      HeroKnight(green)_23: 4791925656254718040
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

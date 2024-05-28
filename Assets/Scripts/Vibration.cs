@@ -29,7 +29,6 @@ public static class Vibration
 #endif
     }
 
-
     public static void Vibrate(long milliseconds)
     {
         if (IsMute)
